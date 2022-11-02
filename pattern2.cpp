@@ -1,4 +1,4 @@
-*/
+/*
   input 5
   output
   *

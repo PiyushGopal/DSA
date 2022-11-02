@@ -29,7 +29,6 @@ int main()
     int i =1;
     char c=65;
     while(i<=n){
-        int count=i;
         int j =1;
         while(j<=n){
             cout<<c<<" ";

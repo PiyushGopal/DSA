@@ -1,4 +1,4 @@
-*/ input 4
+/* input 4
   
   output
   1
